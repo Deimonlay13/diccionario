@@ -1,0 +1,2 @@
+# diccionario
+ingreso de datos
